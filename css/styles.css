@@ -33,12 +33,12 @@ a {
  color: #5b5c5e;
 }
 
-a: hover {
+a:hover {
   color: #653396;
 }
 
-a: active {
-   top: 1px;
+a:active {
+  top: 1px;
 }
 
 .main-header {
